@@ -109,7 +109,6 @@ if folder:
 			json.dump(contents, file, indent='\t')
 
 elif args.mark:
-	# print('here are available episodes to mark')
 	with open(DATA_FILE, 'r') as file:
 		contents = json.load(file)
 
