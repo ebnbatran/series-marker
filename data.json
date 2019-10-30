@@ -1,93 +1,93 @@
 {
-	"name": "Season 1",
+	"name": "Season 2",
 	"files": [
 		{
-			"name": "Supernatural - [1 x 16] - Shadow.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 10] - Asylum.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 02] - Wendigo.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 17] - Hell House.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 05] - Bloody Mary.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 20] - Dead Man's Blood.mp4",
+			"name": "Supernatural - [2 x 21] - All Hell Breaks Loose (Part 1).mp4",
 			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 22] - Devil's Trap.mp4",
+			"name": "Supernatural - [2 x 22] - All Hell Breaks Loose (Part 2).mp4",
 			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 09] - Home.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 11] - Scarecrow.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 03] - Dead In The Water.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 12] - Faith.mp4",
-			"watched": true
-		},
-		{
-			"name": "Supernatural - [1 x 21] - Salvation.mp4",
+			"name": "Supernatural - [2 x 09] - Coatoan.mp4",
 			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 19] - Provenance.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 19] - Folsom Prison Blues.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 14] - Nightmare.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 11] - Playthings.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 08] - Bugs.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 10] - Hunted.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 18] - Something Wicked.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 03] - Bloodlust.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 15] - The Benders.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 02] - Everybody Loves A Clown.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 01] - Pilot.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 01] - In My Time Of Dying.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 04] - Phantom Traveler.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 18] - Hollywood Babylon.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 07] - Hook Man.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 07] - The Usual Suspects.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 06] - Skin.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 04] - Children Shouldn't Play With Dead Things.mp4",
+			"watched": false
 		},
 		{
-			"name": "Supernatural - [1 x 13] - Route 666.mp4",
-			"watched": true
+			"name": "Supernatural - [2 x 20] - What Is And What Should Never Be.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 15] - Tall Tales.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 05] - Simon Said.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 06] - No Exit.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 08] - Crossroad Blues.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 12] - Nightshifter.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 14] - Born Under A Bad Sign.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 13] - Houses Of The Holy.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 17] - Heart.mp4",
+			"watched": false
+		},
+		{
+			"name": "Supernatural - [2 x 16] - Roadkill.mp4",
+			"watched": false
 		}
 	],
 	"folders": []
